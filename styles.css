@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background: linear-gradient(90deg, #000000, #1a1a1a);
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+    color: gold !important;
+}
+
+.btn-primary {
+    background-color: #c9a227;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #a8841f;
+}
